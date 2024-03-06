@@ -1,0 +1,59 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    margin: 250px;
+}
+
+.swifty {
+    display: flex;
+    justify-content: center;
+    font-size: 1.5em;
+    margin-top: 35px;
+}
+
+label {
+    margin: 30px 5px 10px;
+}
+
+#firstName {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+#lastName {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+#email {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+
+
+    
+    
+
+
+form {
+    background-color: blue;
+    width: 500px;
+    height: 400px;
+    border-radius: 25px;
+}
+
+#subButton {
+    margin: 25px 180px 0px;
+    height: 65px;
+    width: 150px;
+    background-color: brown;
+    display: flex;
+    justify-self: center;
+    border-radius: 8px;
+    /*background: linear-gradient left (0, 255, 0);*/ 
+}
