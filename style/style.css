@@ -1,6 +1,6 @@
 
 body {
-    background:url('../images/universe.jpg') no-repeat center;
+    background: center / cover no-repeat url('../images/universe.jpg');
     display: flex;
     justify-content: center;
     margin: 250px;
